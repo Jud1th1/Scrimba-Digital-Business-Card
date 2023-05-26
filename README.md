@@ -35,6 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Jud1th1/Scrimba-Digital-Business-Card
+- Live link: https://csb-om8vfv.netlify.app/
 
 ## My process
 - Learning React: I began by taking several lessons on Scrimba to familiarize myself with React and its core concepts.
